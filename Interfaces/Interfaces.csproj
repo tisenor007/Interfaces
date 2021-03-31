@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bat.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="Goblin.cs" />
+    <Compile Include="IFly.cs" />
+    <Compile Include="IMove.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
